@@ -12,13 +12,18 @@ The NIFTY 50 is a benchmark Indian stock market index that represents the weight
 
 <b>Installation</b><br>
 To install Matplotlib type the below command in the terminal.<br>
-<pre>pip install matplotlib</pre>
+<pre>pip install matplotlib</pre><br>
 
-
-Tools Used:
+<b>pandas</b> is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language. <br>
+  
+<b>Installation</b><br>
+To install pandas type the below command in the terminal.<br>
+<pre>pip install pandas</pre><br>  
+  
+Tools Used:<br>
 -VSCode [IDE]
 
-Libaries & Frameworks Used:
--Pyspark
--Pandas
+Libaries & Frameworks Used:<br>
+-Pyspark<br>
+-Pandas<br>
 -Matplotlib
