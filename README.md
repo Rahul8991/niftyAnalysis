@@ -21,9 +21,9 @@ To install pandas type the below command in the terminal.<br>
 <pre>pip install pandas</pre><br>  
   
 Tools Used:<br>
--VSCode [IDE]
+- VSCode [IDE]
 
 Libaries & Frameworks Used:<br>
--Pyspark<br>
--Pandas<br>
--Matplotlib
+- Pyspark<br>
+- Pandas<br>
+- Matplotlib
